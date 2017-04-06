@@ -385,6 +385,15 @@ a:visited {
   background-image: url("http://i.imgur.com/nZX1uc4.jpg");
 }
 
+#bhagyashri-cover {
+  background-image: url("http://imgur.com/AbLZ2u3.jpg");
+}
+
+#bhagyashri-card {
+	background-image: url("http://imgur.com/hw9bCTM.jpg");
+	background-position: top;	
+}
+
 #asha-mahatma-card{
   background-image: url("http://i.imgur.com/FXJiQcy.jpg");
 }
@@ -4761,6 +4770,11 @@ a:visited {
   text-align: center;
   margin-top: 30px;
 }
+
+.vitals-text-container h1 {
+	font-size: 1.5em;
+}
+
 
 .profile-name,
 .profile-location {
